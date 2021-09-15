@@ -40,5 +40,5 @@ python3 app.py
 
 ### Deployment
 
-Deploymnet can be hone on Heroku...
+Deploymnet can be done on Heroku...
 
