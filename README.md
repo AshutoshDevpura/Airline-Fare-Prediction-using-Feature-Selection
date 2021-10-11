@@ -1,9 +1,9 @@
 # Airline-Fare-Prediction-using-Feature-Selection
 
-This project is a Flask web app that predicts the fare of Flight tickets depending upon various factors such as departure and arrival dates, source and destination, no stoppage between the source and destination, and finally, the airline.
 
 ## Overview
 
+This project is a Flask web app that predicts the fare of Flight tickets depending upon various factors such as departure and arrival dates, source and destination, no stoppage between the source and destination, and finally, the airline.
 
 
 ### Dataset Link
@@ -14,9 +14,6 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
 1. ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg) 
 
 2. ![pip3](https://img.shields.io/badge/pip-v21.0+-blue.svg)
-
-3. ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-
 
 
 ### Installation
@@ -38,7 +35,5 @@ python3 app.py
 #### Output Field:
 <img width="650" alt="Screenshot 2021-08-02 at 4 34 25 AM" src="https://user-images.githubusercontent.com/46817661/130082329-9967e8f0-4531-4e56-838e-4acc68609ae1.png">
 
-### Deployment
 
-Deploymnet can be done on Heroku...
 
